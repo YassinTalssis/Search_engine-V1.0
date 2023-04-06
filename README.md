@@ -1,6 +1,6 @@
 # Search_engineV1.0
-
-This is a project about understanding how the internet works and also how search engines works,
+This my Bachelor end of studying project.
+It's about understanding how the internet works and also how search engines works,
 in this project i will try to make a simple search engine using:
 python: 
   UI: User Interface for search and display results.
