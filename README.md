@@ -12,7 +12,7 @@ To achieve this, I will undertake the development of a basic search engine. The 
     User Interface: Designing a simple yet functional user interface that enables users to interact with the search engine, input search queries, and view results.
 
 Throughout this project, I will leverage various programming languages and tools to build and test each component, gaining hands-on experience with web technologies and search engine principles.
-python: 
+
   UI: User Interface for search and display results.
   ![image](https://user-images.githubusercontent.com/47031764/142437820-4d118b81-bad6-4d38-a93c-2d4e73b9abc4.png)
   ![image](https://user-images.githubusercontent.com/47031764/142438017-0cdc22cd-ec84-407c-bfc2-cde1572160d5.png)
